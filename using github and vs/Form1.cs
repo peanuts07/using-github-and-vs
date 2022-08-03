@@ -49,5 +49,10 @@ namespace using_github_and_vs
                      MessageBox.Show("SLAY", "SLAY", MessageBoxButtons.OK);
                 }
         }
+
+        private void btnExitProgram_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
