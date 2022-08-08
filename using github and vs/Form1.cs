@@ -54,5 +54,11 @@ namespace using_github_and_vs
         {
 
         }
+
+        private void btnAlright_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
